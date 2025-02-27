@@ -1,0 +1,17 @@
+.heading{
+    text-align:center;
+
+}
+.box{
+    color:whitesmoke;
+    background-color: black;
+    width:800px;
+    height:600px;
+    margin:200px auto;
+
+}
+.contentcontainer{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}

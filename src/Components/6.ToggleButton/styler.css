@@ -1,0 +1,18 @@
+#butten {
+    font-size: 18px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: grey;
+    color: white;
+    transition: 0.3s;
+  }
+  
+  #butten:hover {
+    background-color: darkgray;
+  }
+  
+  #butten:active {
+    transform: scale(0.95);
+  }
